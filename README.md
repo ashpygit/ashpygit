@@ -22,7 +22,7 @@ I am a passionate Senior Data Engineer with over a decade of experience turning 
     </td>
     <!-- Right Column: The Illustration -->
     <td width="40%" valign="top" align="center">
-      <img src="https://cdnjs.cloudflare.com/ajax/libs/illustrations/decors/desktop.svg" alt="Developer Illustration" width="100%" />
+      <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" alt="Developer Illustration" width="100%" />
     </td>
   </tr>
 </table>
