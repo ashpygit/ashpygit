@@ -4,8 +4,6 @@
 <!-- Introduction Paragraph -->
 I am a passionate Senior Data Engineer with over a decade of experience turning raw data into meaningful insights. I design modern architectures, scalable cloud platforms, and automated data pipelines using cloud lakehouses to deliver secure, audit-ready data solutions.
 
----
-
 <!-- Two-Column Layout using an HTML Table for the Bio + Image -->
 <table>
   <tr>
